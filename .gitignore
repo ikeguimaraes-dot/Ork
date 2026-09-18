@@ -30,3 +30,5 @@ tests/fixtures/
 config/*.local.json
 .env.instance.local
 artifacts/
+
+supabase/.branches/
