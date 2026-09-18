@@ -1,0 +1,32 @@
+# Next.js
+.next/
+out/
+build/
+
+# Dependencies
+node_modules/
+
+# Environment
+.env
+.env.local
+.env*.local
+
+# TypeScript
+*.tsbuildinfo
+tsconfig.tsbuildinfo
+
+# Supabase CLI
+supabase/.temp/
+
+# Misc
+.DS_Store
+*.pem
+npm-debug.log*
+.vercel
+.env*
+tests/fixtures/
+
+!.env.example
+config/*.local.json
+.env.instance.local
+artifacts/

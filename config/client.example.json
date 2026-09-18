@@ -1,0 +1,8 @@
+{
+  "name": "Meu Restaurante",
+  "slug": "meu-restaurante",
+  "color": "#C4622D",
+  "units": [
+    {"name":"Matriz","cnpj":"","revenueAccount":"1.01","categoryContains":[]}
+  ]
+}

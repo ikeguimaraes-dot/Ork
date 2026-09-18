@@ -1,0 +1,1 @@
+-- Optional local development data only. Production catalogs are in migrations.
